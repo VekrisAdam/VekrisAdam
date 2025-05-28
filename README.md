@@ -10,7 +10,7 @@
 - 📫 How to reach me: vekrisadam@gmail.com
 
 #### Languages
-- Java (most confident), Python, MySQL (light), FXML (light)
+- :coffee: Java (most confident), Python, MySQL (light), FXML (light)
 
 #### Other
-- Git, UML, threading (light), object-oriented programming, data structures, algorithms
+- :snake: Git, UML, threading (light), object-oriented programming, data structures, algorithms
